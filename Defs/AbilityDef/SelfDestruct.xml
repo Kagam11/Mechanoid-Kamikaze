@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <AbilityDef>
+        <defName>Mech_SelfExplode</defName>
+        <label>self-destruct</label>
+        <description>Cast an explode and destroys the caster.</description>
+        <aiCanUse>false</aiCanUse>
+
+        <targetRequired>False</targetRequired>
+        <verbProperties>
+            <verbClass>Mechanoid_Kamikaze.Verb_SelfExplode</verbClass>
+            <warmupTime>2</warmupTime>
+            <targetParams>
+                <canTargetSelf>true</canTargetSelf>
+            </targetParams>
+            <requireLineOfSight>false</requireLineOfSight>
+            <onlyManualCast>true</onlyManualCast>
+        </verbProperties>
+        <iconPath>Icon/Kamikaze</iconPath>
+    </AbilityDef>
+</Defs>

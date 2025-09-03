@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Mechanoid Kamikaze</name>
+    <author>Kagami</author>
+    <packageId>Kagami.MechanoidKamikaze</packageId>
+    <modVersion>1.0.0.0</modVersion>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <description>
+        Add a self-destruct ability for mechanoids.
+    </description>
+    <modDependencies>
+        <li>
+            <packageId>Ludeon.RimWorld.Biotech</packageId>
+            <displayName>Biotech</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>Ludeon.RimWorld.Ideology</li>
+        <li>sarg.alphamechs</li>
+    </loadAfter>
+</ModMetaData>

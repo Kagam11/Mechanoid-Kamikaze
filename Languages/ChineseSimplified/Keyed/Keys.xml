@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KamikazeTitle>后备隐藏能源</KamikazeTitle>
+
+    <KamikazeDesc>一些机械族与他们的体型供参考：\n搬运机 = 0.7\n掘进机=1.0\n机械蜈蚣=3.0\n炼狱魔王=4.0</KamikazeDesc>
+
+    <BasicRadius>基础半径</BasicRadius>
+    <RadiusPerSize>每单位体型半径</RadiusPerSize>
+    <BasicDamage>基础伤害</BasicDamage>
+    <DamagePerSize>每单位体型伤害</DamagePerSize>
+</LanguageData>

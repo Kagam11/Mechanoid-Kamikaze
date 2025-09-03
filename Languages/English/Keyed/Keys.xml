@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KamikazeTitle>Mechanoid Kamikaze</KamikazeTitle>
+
+    <KamikazeDesc>Here are some mechanoids with their bodysize FYI:\nlifter = 0.7\ntunneler=1.0\ncentipede=3.0\ndiabolus=4.0</KamikazeDesc>
+
+    <BasicRadius>Basic Radius</BasicRadius>
+    <RadiusPerSize>Radius per bodysize</RadiusPerSize>
+    <BasicDamage>Basic Damage</BasicDamage>
+    <DamagePerSize>Damage per bodysize</DamagePerSize>
+</LanguageData>
